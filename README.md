@@ -1,1 +1,1 @@
-# Criando e alterandoo templateda Atividade 10
+# Criando e alterando o template da Atividade 10
